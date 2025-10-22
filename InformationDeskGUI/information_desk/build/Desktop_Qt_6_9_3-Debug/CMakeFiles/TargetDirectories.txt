@@ -1,0 +1,13 @@
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/information_desk.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/information_desk_lupdate.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/update_translations.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/information_desk_lrelease.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/release_translations.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/edit_cache.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/rebuild_cache.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/list_install_components.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/install.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/install/local.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/install/strip.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/information_desk_autogen_timestamp_deps.dir
+/home/addinedu/InformationDeskGUI/information_desk/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/information_desk_autogen.dir
